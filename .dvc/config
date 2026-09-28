@@ -1,4 +1,6 @@
 [core]
-    remote = dvcstore
+    remote = saleh-dvcstore
 ['remote "dvcstore"']
     url = s3://dvc-s3-proj
+['remote "saleh-dvcstore"']
+    url = s3://saleh-dvc-s3
